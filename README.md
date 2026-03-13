@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0503-next-greater-element-ii](https://github.com/dasrohit15/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0704-binary-search](https://github.com/dasrohit15/LeetCode/tree/master/0704-binary-search) |
 | [0860-lemonade-change](https://github.com/dasrohit15/LeetCode/tree/main/0860-lemonade-change/) | Easy |
+| [0994-rotting-oranges](https://github.com/dasrohit15/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -61,4 +62,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0455-assign-cookies](https://github.com/dasrohit15/LeetCode/tree/main/0455-assign-cookies/) | Easy |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0994-rotting-oranges](https://github.com/dasrohit15/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0994-rotting-oranges](https://github.com/dasrohit15/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 <!---LeetCode Topics End-->
