@@ -32,6 +32,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/dasrohit15/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0151-reverse-words-in-a-string](https://github.com/dasrohit15/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
+| [1392-longest-happy-prefix](https://github.com/dasrohit15/LeetCode/tree/main/1392-longest-happy-prefix/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -76,4 +77,16 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0014-longest-common-prefix](https://github.com/dasrohit15/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
+## Rolling Hash
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1392-longest-happy-prefix](https://github.com/dasrohit15/LeetCode/tree/main/1392-longest-happy-prefix/) | Hard |
+## String Matching
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1392-longest-happy-prefix](https://github.com/dasrohit15/LeetCode/tree/main/1392-longest-happy-prefix/) | Hard |
+## Hash Function
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1392-longest-happy-prefix](https://github.com/dasrohit15/LeetCode/tree/main/1392-longest-happy-prefix/) | Hard |
 <!---LeetCode Topics End-->
