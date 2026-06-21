@@ -20,7 +20,7 @@ public:
         ListNode *fast = head;
         ListNode *prev = nullptr;
 
-        while (fast && fast->next) {
+        while (fast != NULL && fast->next != NULL) {
             prev = slow;
             slow = slow->next;
             fast = fast->next->next;
