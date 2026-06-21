@@ -31,11 +31,12 @@ public:
         if(fast == NULL){
             return head->next;
         }
-        
+
         while(fast->next != NULL){
             slow = slow->next;
             fast = fast->next;
         }
+
         
         ListNode *delNode = slow->next;
         slow->next = slow->next->next;
