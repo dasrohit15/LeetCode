@@ -13,8 +13,10 @@ public:
     ListNode* deleteMiddle(ListNode* head) {
 
         //edge case if LL is [1]
-        if (head == NULL || head->next == NULL)
+        if (head == NULL || head->next == NULL){
             return NULL;
+        }
+         
 
         ListNode *slow = head;
         ListNode *fast = head;
