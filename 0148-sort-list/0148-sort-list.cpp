@@ -23,22 +23,22 @@ public:
     ListNode *mergeSort(ListNode *list1, ListNode *list2){
         ListNode *dummyNode = new ListNode(-1);
         ListNode *temp = dummyNode;
-        ListNode *t1 = list1;
-        ListNode *t2 = list2;
-        while(t1 != NULL && t2 != NULL){
-            if(t1->val < t2->val){
-                temp->next = t1;
-                temp = t1;
-                t1 = t1->next;
+        //ListNode *list1 = lislist1;
+        //ListNode *list2 = lislist2;
+        while(list1 != NULL && list2 != NULL){
+            if(list1->val < list2->val){
+                temp->next = list1;
+                temp = list1;
+                list1= list1->next;
             }
             else{
-                temp->next = t2;
-                temp = t2;
-                t2 = t2->next;
+                temp->next = list2;
+                temp = list2;
+                list2 = list2->next;
             }
         }
-        if(t1) temp->next = t1;
-        else temp->next = t2;
+        if(list1) temp->next = list1;
+        else temp->next = list2;
         return dummyNode->next;
     }
 
