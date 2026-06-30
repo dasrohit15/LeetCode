@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0496-next-greater-element-i](https://github.com/dasrohit15/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/dasrohit15/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
 | [0704-binary-search](https://github.com/dasrohit15/LeetCode/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/dasrohit15/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0860-lemonade-change](https://github.com/dasrohit15/LeetCode/tree/main/0860-lemonade-change/) | Easy |
 | [0994-rotting-oranges](https://github.com/dasrohit15/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 ## Binary Search
@@ -23,6 +24,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/dasrohit15/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0209-minimum-size-subarray-sum](https://github.com/dasrohit15/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0704-binary-search](https://github.com/dasrohit15/LeetCode/tree/master/0704-binary-search) |
+| [0713-subarray-product-less-than-k](https://github.com/dasrohit15/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,8 +135,10 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/dasrohit15/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/dasrohit15/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/dasrohit15/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0713-subarray-product-less-than-k](https://github.com/dasrohit15/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 <!---LeetCode Topics End-->
