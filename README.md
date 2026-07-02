@@ -18,6 +18,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0860-lemonade-change](https://github.com/dasrohit15/LeetCode/tree/main/0860-lemonade-change/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/dasrohit15/LeetCode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [0994-rotting-oranges](https://github.com/dasrohit15/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dasrohit15/LeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -74,6 +75,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0142-linked-list-cycle-ii](https://github.com/dasrohit15/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/dasrohit15/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0992-subarrays-with-k-different-integers](https://github.com/dasrohit15/LeetCode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dasrohit15/LeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Stack
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -139,6 +141,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/dasrohit15/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/dasrohit15/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/dasrohit15/LeetCode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dasrohit15/LeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
