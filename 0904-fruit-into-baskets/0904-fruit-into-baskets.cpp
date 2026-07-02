@@ -1,9 +1,9 @@
 class Solution {
 public:
     int totalFruit(vector<int>& fruits) {
-        int l = 0, r = 0, maxlen = 0;
+        int l = 0, maxlen = 0;
         unordered_map<int,int>mpp;
-        while(r < fruits.size()){
+        for(int r=0; r < fruits.size(); r++){
             mpp[fruits[r]]++;
             if(mpp.size() > 2){
                 mpp[fruits[l]]--;
@@ -11,7 +11,6 @@ public:
                 l++;
             }
             maxlen = max(maxlen, r - l + 1);
-            r++;
         }
         return maxlen;
         
