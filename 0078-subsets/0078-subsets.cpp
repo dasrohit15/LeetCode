@@ -1,6 +1,6 @@
 class Solution {
 public:
-    /*void findSubset(int idx, vector<int> &arr, vector<vector<int>> &ans, vector<int> &ds){
+    void findSubset(int idx, vector<int> &arr, vector<vector<int>> &ans, vector<int> &ds){
         if(idx== arr.size()){
             ans.push_back(ds);
             return;
@@ -11,8 +11,8 @@ public:
         ds.pop_back();
         //not-pick
         findSubset(idx + 1, arr, ans, ds);      
-    }*/
-    void findSubset(int idx, vector<int>& nums,
+    }
+    /*void findSubset(int idx, vector<int>& nums,
                     vector<vector<int>>& ans,
                     vector<int>& ds) {
 
@@ -25,7 +25,7 @@ public:
 
             ds.pop_back();
         }
-    }
+    }*/
 
     vector<vector<int>> subsets(vector<int>& nums) {
         vector<vector<int>> ans;
