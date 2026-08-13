@@ -10,6 +10,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0033-search-in-rotated-sorted-array](https://github.com/dasrohit15/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/dasrohit15/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0039-combination-sum](https://github.com/dasrohit15/LeetCode/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/dasrohit15/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/dasrohit15/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0455-assign-cookies](https://github.com/dasrohit15/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0496-next-greater-element-i](https://github.com/dasrohit15/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
@@ -159,4 +160,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0039-combination-sum](https://github.com/dasrohit15/LeetCode/tree/main/0039-combination-sum/) | Medium |
+| [0040-combination-sum-ii](https://github.com/dasrohit15/LeetCode/tree/main/0040-combination-sum-ii/) | Medium |
 <!---LeetCode Topics End-->
