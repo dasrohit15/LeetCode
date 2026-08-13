@@ -1,6 +1,6 @@
 class Solution {
 public:
-    /*void findCombination(int idx, int tar, vector<int> &arr, vector<vector<int>> &ans, vector<int>&ds){
+    void findCombination(int idx, int tar, vector<int> &arr, vector<vector<int>> &ans, vector<int>&ds){
         if(idx == arr.size()){
             if(tar == 0){
                 ans.push_back(ds);
@@ -14,8 +14,8 @@ public:
             ds.pop_back();
         }
         findCombination(idx + 1, tar, arr, ans, ds);
-    }*/
-    void findCombination(int idx, int tar, vector<int>& arr,
+    }
+    /*void findCombination(int idx, int tar, vector<int>& arr,
                           vector<vector<int>>& ans, vector<int>& ds) {
 
         if (tar == 0) {
@@ -35,10 +35,10 @@ public:
 
             ds.pop_back();
         }
-    }
+    }*/
     
     vector<vector<int>> combinationSum(vector<int>& candidates, int target) {
-        sort(candidates.begin(), candidates.end());
+        //sort(candidates.begin(), candidates.end());
         vector<vector<int>>ans;
         vector<int>ds;
         findCombination(0, target, candidates, ans, ds);
