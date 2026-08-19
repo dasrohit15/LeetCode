@@ -25,6 +25,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0860-lemonade-change](https://github.com/dasrohit15/LeetCode/tree/main/0860-lemonade-change/) | Easy |
 | [0904-fruit-into-baskets](https://github.com/dasrohit15/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/dasrohit15/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0931-minimum-falling-path-sum](https://github.com/dasrohit15/LeetCode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/dasrohit15/LeetCode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [0994-rotting-oranges](https://github.com/dasrohit15/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dasrohit15/LeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -117,6 +118,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0063-unique-paths-ii](https://github.com/dasrohit15/LeetCode/tree/main/0063-unique-paths-ii/) | Medium |
 | [0064-minimum-path-sum](https://github.com/dasrohit15/LeetCode/tree/main/0064-minimum-path-sum/) | Medium |
+| [0931-minimum-falling-path-sum](https://github.com/dasrohit15/LeetCode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0994-rotting-oranges](https://github.com/dasrohit15/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 ## Trie
 | Problem Name | Difficulty |
@@ -187,6 +189,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0213-house-robber-ii](https://github.com/dasrohit15/LeetCode/tree/main/0213-house-robber-ii/) | Medium |
 | [0509-fibonacci-number](https://github.com/dasrohit15/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0918-maximum-sum-circular-subarray](https://github.com/dasrohit15/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
+| [0931-minimum-falling-path-sum](https://github.com/dasrohit15/LeetCode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
