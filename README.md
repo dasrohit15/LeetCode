@@ -21,6 +21,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0455-assign-cookies](https://github.com/dasrohit15/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0496-next-greater-element-i](https://github.com/dasrohit15/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
 | [0503-next-greater-element-ii](https://github.com/dasrohit15/LeetCode/tree/main/0503-next-greater-element-ii/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/dasrohit15/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0704-binary-search](https://github.com/dasrohit15/LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/dasrohit15/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0860-lemonade-change](https://github.com/dasrohit15/LeetCode/tree/main/0860-lemonade-change/) | Easy |
@@ -87,6 +88,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0141-linked-list-cycle](https://github.com/dasrohit15/LeetCode/tree/main/0141-linked-list-cycle/) | Easy |
 | [0142-linked-list-cycle-ii](https://github.com/dasrohit15/LeetCode/tree/main/0142-linked-list-cycle-ii/) | Medium |
 | [0496-next-greater-element-i](https://github.com/dasrohit15/LeetCode/tree/main/0496-next-greater-element-i/) | Easy |
+| [0560-subarray-sum-equals-k](https://github.com/dasrohit15/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/dasrohit15/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/dasrohit15/LeetCode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dasrohit15/LeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
@@ -166,6 +168,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/dasrohit15/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0560-subarray-sum-equals-k](https://github.com/dasrohit15/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/dasrohit15/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
