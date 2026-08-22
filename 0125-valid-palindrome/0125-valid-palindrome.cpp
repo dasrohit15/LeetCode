@@ -9,16 +9,19 @@ public:
         while(l < r){
             if(! isAlphaNum(s[l])){
                 l++;
-                continue;
+                //continue;
             }
-            if(! isAlphaNum(s[r])){
+            else if(! isAlphaNum(s[r])){
                 r--;
-                continue;
+                //continue;
             }
 
-            if(tolower(s[l]) != tolower(s[r])) return false;
-            l++;
-            r--;
+            else{
+                if(tolower(s[l]) != tolower(s[r])) return false;
+                l++;
+                r--;
+            } 
+            
         }
         return true;
         
