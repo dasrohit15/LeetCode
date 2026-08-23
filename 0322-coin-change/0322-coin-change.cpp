@@ -23,7 +23,7 @@ public:
 
     int coinChange(vector<int>& coins, int amount) {
         int n = coins.size();
-        vector<vector<int>>dp(n,vector<int>(amount + 1,-1));
+        vector<vector<int>>dp(n,vector<int>(amount + 1,0));
         for(int tar = 0; tar<=amount;tar++){
             if(tar % coins[0]==0) dp[0][tar] = tar/coins[0];
             else dp[0][tar] =1e9;
