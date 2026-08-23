@@ -1,7 +1,17 @@
 class Solution {
 public:
+    int expand(string &s, int left, int right) {
+
+            while (left >= 0 && right < s.size() && s[left] == s[right]) {
+                left--;
+                right++;
+            }
+
+            return right - left - 1;
+    }
+    
     string longestPalindrome(string s) {
-        int n = s.size();
+        /*int n = s.size();
 
         int start = 0;
         int maxLen = 1;
@@ -34,6 +44,28 @@ public:
 
                 left--;
                 right++;
+            }
+        }
+
+        return s.substr(start, maxLen);*/
+        int start = 0;
+        int maxLen = 0;
+
+        for (int i = 0; i < s.size(); i++) {
+
+            // Odd length palindrome
+            int len1 = expand(s, i, i);
+
+            // Even length palindrome
+            int len2 = expand(s, i, i + 1);
+
+            int len = max(len1, len2);
+
+            if (len > maxLen) {
+                maxLen = len;
+
+                // Find starting index
+                start = i - (len - 1) / 2;
             }
         }
 
