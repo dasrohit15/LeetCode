@@ -31,7 +31,7 @@ public:
         for(int idx =1;idx<n;idx++){
             for(int target=0;target <= amount;target++){
                 int not_take = 0 + dp[idx-1][target];
-                int take = INT_MAX;
+                int take = 1e9;
                 if(coins[idx]<=target) take = 1 + dp[idx][target-coins[idx]];
                 dp[idx][target] = min(take,not_take);
             }
