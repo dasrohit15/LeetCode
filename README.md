@@ -68,6 +68,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/dasrohit15/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0647-palindromic-substrings](https://github.com/dasrohit15/LeetCode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0680-valid-palindrome-ii](https://github.com/dasrohit15/LeetCode/tree/main/0680-valid-palindrome-ii/) | Easy |
+| [1143-longest-common-subsequence](https://github.com/dasrohit15/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1392-longest-happy-prefix](https://github.com/dasrohit15/LeetCode/tree/main/1392-longest-happy-prefix/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
@@ -216,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0647-palindromic-substrings](https://github.com/dasrohit15/LeetCode/tree/main/0647-palindromic-substrings/) | Medium |
 | [0918-maximum-sum-circular-subarray](https://github.com/dasrohit15/LeetCode/tree/main/0918-maximum-sum-circular-subarray/) | Medium |
 | [0931-minimum-falling-path-sum](https://github.com/dasrohit15/LeetCode/tree/main/0931-minimum-falling-path-sum/) | Medium |
+| [1143-longest-common-subsequence](https://github.com/dasrohit15/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/dasrohit15/LeetCode/tree/main/1463-cherry-pickup-ii/) | Hard |
 ## Queue
 | Problem Name | Difficulty |
@@ -261,4 +263,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0322-coin-change](https://github.com/dasrohit15/LeetCode/tree/main/0322-coin-change/) | Medium |
 | [0518-coin-change-ii](https://github.com/dasrohit15/LeetCode/tree/main/0518-coin-change-ii/) | Medium |
+## Longest Common Subsequence
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1143-longest-common-subsequence](https://github.com/dasrohit15/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 <!---LeetCode Topics End-->
