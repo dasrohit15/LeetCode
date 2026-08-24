@@ -2,22 +2,20 @@ class Solution {
 public:
     /*int change(int amount, vector<int>& coins) {
         int n = coins.size();
-        vector<vector<int>>dp(n,vector<int>(amount + 1,0));
+        vector<vector<long long>>dp(n,vector<long long>(amount + 1,0));
         for(int tar = 0; tar<=amount;tar++){
-            if(tar % coins[0]==0) dp[0][tar] = tar/coins[0];
-            else dp[0][tar] =1;
+            if(tar % coins[0]==0) dp[0][tar]=1;
         }
         for(int idx =1;idx<n;idx++){
             for(int target=0;target <= amount;target++){
-                int not_take = 0 + dp[idx-1][target];
-                int take = 0;
-                if(coins[idx]<=target) take = 1 + dp[idx][target-coins[idx]];
+                long long not_take =  dp[idx-1][target];
+                long long take = 0;
+                if(coins[idx]<=target) take = dp[idx][target-coins[idx]];
                 dp[idx][target] = take + not_take;
             }
         }
-        int ans = dp[n-1][amount];
-        //if(ans >= 1e9) return -1;
-        return ans;
+        return  dp[n-1][amount];
+         
     }*/
     int func(int idx, int tar,vector<int>&coins, vector<vector<int>>& dp){
         if(idx==0){
