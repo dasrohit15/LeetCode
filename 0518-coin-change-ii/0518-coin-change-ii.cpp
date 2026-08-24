@@ -19,7 +19,8 @@ public:
     }*/
     int func(int idx, int tar,vector<int>&coins, vector<vector<int>>& dp){
         if(idx==0){
-            return(tar % coins[0]==0);
+            if(tar % coins[0]==0)return 1;
+            else return 0;
         }
         if(dp[idx][tar]!=-1) return dp[idx][tar];
         int not_take = func(idx-1,tar,coins,dp);
