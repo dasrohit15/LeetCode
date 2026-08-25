@@ -19,7 +19,7 @@ public:
 
     int func(int n,int m,string &s,string &t,vector<vector<double>>&dp){
         for(int i=0;i<=n;i++) dp[i][0]=1;
-        for(int j=1;j<=m;j++) dp[0][j]=0;
+        // for(int j=1;j<=m;j++) dp[0][j]=0;
         for(int idx1=1;idx1<=n;idx1++){
             for(int idx2=1;idx2<=m;idx2++){
                 if(s[idx1-1]==t[idx2-1]) dp[idx1][idx2] = dp[idx1-1][idx2-1] + dp[idx1-1][idx2];
