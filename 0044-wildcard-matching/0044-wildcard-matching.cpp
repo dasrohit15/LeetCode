@@ -28,14 +28,12 @@ public:
         dp[0][0]=true;
         for(int j=1;j<=m;j++) dp[0][j]=false;
         for(int i=1;i<=n;i++){
-            bool flag =true;
+            dp[i][0]= true;
             for(int x=1;x<=i;x++){
                 if(p[x-1]!='*'){
-                    flag = false;
-                    break;
+                    dp[i][0]=false;
                 }
             }
-            dp[i][0]= flag;
         }
         for(int i =1;i<=n;i++){
             for(int j=1;j<=m;j++){
