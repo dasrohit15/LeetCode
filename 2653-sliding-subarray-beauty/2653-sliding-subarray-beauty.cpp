@@ -16,13 +16,17 @@ public:
         int l=0;
         for(int r=0;r<n;r++){
             if(nums[r]<0) mpp[nums[r]]++;
-            if(r-l+1 < k)continue;
-            else if(r-l+1 ==k){
+            
+            if(r-l+1 > k){
+                if(nums[l]<0){
+                    mpp[nums[l]]--;
+                    if(mpp[nums[l]]==0)mpp.erase(nums[l]);
+                }
+                l++;
+            }
+            if(r-l+1== k){
                 int xth_ele = findxth(mpp,x);
                 ans.push_back(xth_ele);
-                mpp[nums[l]]--;
-                if(mpp[nums[l]]==0)mpp.erase(nums[l]);
-                l++;
             }
         }
         return ans;
