@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1463-cherry-pickup-ii](https://github.com/dasrohit15/LeetCode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dasrohit15/LeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2653-sliding-subarray-beauty](https://github.com/dasrohit15/LeetCode/tree/main/2653-sliding-subarray-beauty/) | Medium |
+| [3875-construct-uniform-parity-array-i](https://github.com/dasrohit15/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -256,6 +257,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0062-unique-paths](https://github.com/dasrohit15/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/dasrohit15/LeetCode/tree/main/0070-climbing-stairs/) | Easy |
 | [0509-fibonacci-number](https://github.com/dasrohit15/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/dasrohit15/LeetCode/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Memoization
 | Problem Name | Difficulty |
 | ------- | ------- |
