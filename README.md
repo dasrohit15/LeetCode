@@ -37,6 +37,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0931-minimum-falling-path-sum](https://github.com/dasrohit15/LeetCode/tree/main/0931-minimum-falling-path-sum/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/dasrohit15/LeetCode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
 | [0994-rotting-oranges](https://github.com/dasrohit15/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/dasrohit15/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1463-cherry-pickup-ii](https://github.com/dasrohit15/LeetCode/tree/main/1463-cherry-pickup-ii/) | Hard |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dasrohit15/LeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2653-sliding-subarray-beauty](https://github.com/dasrohit15/LeetCode/tree/main/2653-sliding-subarray-beauty/) | Medium |
@@ -50,6 +51,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/dasrohit15/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0704-binary-search](https://github.com/dasrohit15/LeetCode/tree/master/0704-binary-search) |
 | [0713-subarray-product-less-than-k](https://github.com/dasrohit15/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/dasrohit15/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -197,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0713-subarray-product-less-than-k](https://github.com/dasrohit15/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
 | [0904-fruit-into-baskets](https://github.com/dasrohit15/LeetCode/tree/main/0904-fruit-into-baskets/) | Medium |
 | [0992-subarrays-with-k-different-integers](https://github.com/dasrohit15/LeetCode/tree/main/0992-subarrays-with-k-different-integers/) | Hard |
+| [1004-max-consecutive-ones-iii](https://github.com/dasrohit15/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/dasrohit15/LeetCode/tree/main/2461-maximum-sum-of-distinct-subarrays-with-length-k/) | Medium |
 | [2653-sliding-subarray-beauty](https://github.com/dasrohit15/LeetCode/tree/main/2653-sliding-subarray-beauty/) | Medium |
 ## Prefix Sum
@@ -205,6 +208,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0209-minimum-size-subarray-sum](https://github.com/dasrohit15/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0560-subarray-sum-equals-k](https://github.com/dasrohit15/LeetCode/tree/main/0560-subarray-sum-equals-k/) | Medium |
 | [0713-subarray-product-less-than-k](https://github.com/dasrohit15/LeetCode/tree/main/0713-subarray-product-less-than-k/) | Medium |
+| [1004-max-consecutive-ones-iii](https://github.com/dasrohit15/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
 | ------- | ------- |
