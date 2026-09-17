@@ -18,6 +18,6 @@ class Solution {
                 start = i-(len-1)/2;
             }
         }
-        return s.substring(start,maxLen+start);
+        return s.substring(start,maxLen + start);
     }
 }
