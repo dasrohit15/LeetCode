@@ -7,17 +7,17 @@ class Solution {
         return r-l-1;
     }
     public String longestPalindrome(String s) {
-        int maxLen= 0;
+        int end= 0;
         int start = 0;
         for(int i=0;i<s.length();i++){
             int odd = expand(s,i,i);
             int even = expand(s,i,i+1);
             int len = Math.max(odd,even);
-            if(len>maxLen){
-                maxLen=len;
+            if(len>end-start){
+                end=i+len/2;
                 start = i-(len-1)/2;
             }
         }
-        return s.substring(start,maxLen + start);
+        return s.substring(start,end + 1);
     }
 }
