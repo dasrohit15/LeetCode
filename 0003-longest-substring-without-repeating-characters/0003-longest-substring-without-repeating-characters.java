@@ -13,12 +13,14 @@ class Solution {
         return maxLen;*/
 
         int l=0,maxlen=0;
-        HashMap<Character,Integer> map=new HashMap<>();
+        HashMap<Character,Integer>map=new HashMap<>();
         for(int r=0;r<s.length();r++){
-            if(map.containsKey(s.charAt(r))){
-                l=Math.max(l,map.get(s.charAt(r))+1);
+            char ch = s.charAt(r);
+            if(map.containsKey(ch)){
+                //char c= s.charAt(l);
+                l=Math.max(l,map.get(ch)+1);
             }
-            map.put(s.charAt(r),r);
+            map.put(ch,r);
             maxlen=Math.max(maxlen,r-l+1);
         }
         return maxlen;
