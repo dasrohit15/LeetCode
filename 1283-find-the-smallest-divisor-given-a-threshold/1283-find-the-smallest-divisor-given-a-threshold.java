@@ -5,7 +5,7 @@ class Solution {
         for(int num : nums){
             high = Math.max(high,num);
         }
-        int ans = high;
+        int ans=high;
         while(low <= high){
             int mid = low + (high-low)/2;
             if(canDivide(nums,threshold,mid)){
