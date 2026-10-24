@@ -1,6 +1,6 @@
 class Solution {
     public int shipWithinDays(int[] weights, int days) {
-        int low = 1;
+        int low = 0;
         int high=0;
         for(int w : weights){
             low = Math.max(low,w);
